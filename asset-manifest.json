@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitDashBoard/static/css/main.3b2a5d9f.css",
+    "main.js": "/GitDashBoard/static/js/main.fe13de92.js",
+    "index.html": "/GitDashBoard/index.html",
+    "main.3b2a5d9f.css.map": "/GitDashBoard/static/css/main.3b2a5d9f.css.map",
+    "main.fe13de92.js.map": "/GitDashBoard/static/js/main.fe13de92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2a5d9f.css",
+    "static/js/main.fe13de92.js"
+  ]
+}
